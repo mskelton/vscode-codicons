@@ -5,6 +5,7 @@ module.exports = {
     name: 'codicon',
     prefix: 'codicon',
     codepoints: codepoints,
+    descent: 50,
     inputDir: './src/icons',
     outputDir: './dist',
     fontTypes: ['ttf'],
